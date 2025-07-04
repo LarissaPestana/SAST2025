@@ -11,7 +11,7 @@ The repository provides:
 
 - **Practical Example Script (`vehicular-comparison.cc`)**: A minimal demonstration using two moving vehicles exchanging UDP messages over varying distances. This example illustrates the instantiation of the simulation elements described in the pseudocode. While simple, it serves as a starting point for reproducible and extensible V2X experiments.
 
-- **PDF**: Graphical visualization of simulation results for 2 vehicles communicating with 802.11p and 802.11b, in two situations: 50 meters away and 100 meters away
+- **PDF**: Graphical visualization of simulation results for 2 vehicles communicating with 802.11p and 802.11bd, in two situations: 50 meters away and 100 meters away
 ## Requirements
 
 - ns-3.35 or later
